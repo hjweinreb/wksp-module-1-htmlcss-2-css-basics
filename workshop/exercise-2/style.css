@@ -3,13 +3,18 @@ p {
 }
 
 .one {
+    background-color: pink;
+    margin: 0;
 
 }
 
 .two {
+    background-color: fuchsia;
+    margin: 0;
 
 }
 
 .three {
+    font-size: 5em;
 
 }

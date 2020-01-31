@@ -1,1 +1,25 @@
-/* ...crickets... */
+h1{
+
+}
+
+    .title {
+        
+        text-align: center;
+        margin: 0;
+        
+
+    }
+
+
+p {
+
+}
+
+    .subtitle {
+        text-align: center;
+        margin: 0;
+    }
+
+    .content{
+        font-family: "Comic Sans MS", cursive, sans-serif
+    }
