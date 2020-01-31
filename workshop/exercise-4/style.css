@@ -1,25 +1,44 @@
-#centered {
+
+
+
+h1{
     text-align: center;
-}
-
-.title {
     font-size: 3rem;
+    margin: 0;
+    background-color: grey;
 }
 
-subtitle {
-    font-size: 1.5rem;
+
+p{
+
+  font-size: 1.5rem;
+  text-align: center;
+  margin: 0;
+  background-color: grey;
+
 }
 
-.div {
-    background-color: gray;
+.monospaced {
+
+    background-color: grey;
+    margin: 0;
+    text-decoration: underline;
+
 }
 
-#li {
-    list-style-type: none;
+h2 {
+    margin: 0;
+    font-size: 12px;
+}
+
+.li {
+    font-size: 12px;
+    font-family: sans-serif;
 }
 
 content {
     text-decoration: underline;
+    
 }
 
 monospaced {
